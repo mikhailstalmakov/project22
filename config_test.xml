@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <package_name>A</package_name>
+    <repo_url>test_repo.txt</repo_url>
+    <test_mode>true</test_mode>
+    <output_file>graph_test.svg</output_file>
+    <filter_substring></filter_substring>
+</config>

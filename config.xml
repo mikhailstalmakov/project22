@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <package_name>requests</package_name>
+    <repo_url>https://pypi.org/pypi/requests/json</repo_url>
+    <test_mode>false</test_mode>
+    <output_file>graph.svg</output_file>
+    <filter_substring>test</filter_substring>
+</config>
